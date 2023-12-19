@@ -18,7 +18,7 @@ const toggleScreen = () => {
 };
 
 const handleTryClick = event => {
-event.preventDefault(); // não faça o padrao deste evento   
+   event.preventDefault(); // não faça o padrao deste evento   
 
    const inputNumber = document.querySelector('#inputNumber');
    
