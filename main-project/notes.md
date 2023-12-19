@@ -1,0 +1,4 @@
+-Aprendi sobre callbacks
+-Melhorei meus conhecimentos em DOM
+-Todo evento tem que ter sua reação
+-Refatore o código para ficar mais legivel, tudo que se repetir pode se tornar uma variável
